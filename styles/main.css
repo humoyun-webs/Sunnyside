@@ -1,0 +1,261 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    overflow-x: hidden;
+    width: 100%;
+
+}
+.blue_box{
+    position: relative;
+    height: 700px;
+    width: 100%;
+    background-color:rgb(58, 144, 179) ;
+}
+.logo{
+    padding: 30px 50px;
+    float: left;
+    display: inline-block;
+}
+.menu1 ul{
+    display: flex;
+    position: relative;
+    list-style-type: none;
+    justify-content: end;
+    
+    padding: 30px;
+    color: white;
+    font-weight: 900;
+    
+   
+    
+}
+.Sarlavha{
+    display: flex;
+    padding-top: 70px;
+    color: white;
+    font-weight: 900;
+    font-size: 32px;
+    justify-content: center;
+    padding-right: 80px;
+    
+    
+}
+.menu{
+    padding: 0px 40px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.apelsin{
+    position: absolute;
+    padding-top: 1px;
+    padding-left: 550px;
+}
+.egg{
+    position: relative;
+    float: right;
+}
+.card_text1{
+    padding: 150px ;
+    
+    height: 443px;
+    padding-top: 200px;
+    font-size: 36px;
+    font-weight: 600;
+    align-items: center;
+    color: gray;
+}
+.bold{
+    color: black;
+    font-weight: 900;
+    font-size: 1.8em;
+
+}
+.Learn{
+    color: black;
+    font-weight: 900;
+    cursor: pointer;
+    
+}
+.Learn:hover{
+    transition: 0.4s;
+    text-decoration: 5px solid yellow;
+}
+.glass{
+    float: left;
+}
+.card_text2{
+    padding-top: 200px;
+    padding-left: 200px;
+    display: inline-block;
+    height: 593px;
+    
+    font-size: 36px;
+    font-weight: 600;
+    
+    color: gray;
+}
+.cherry{
+    float: left;
+    position: relative;
+}
+.Graphic{
+    color: darkgreen;
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 350px;
+    
+    font-weight: 900;
+    font-size: 1.8em;
+   
+}
+.text3{
+    
+    position: absolute;
+    color:darkgreen ;
+    font-size: 32px;
+    font-weight: 600;
+    margin-top:-150px ;
+    margin-left: 75px;
+    
+}
+.Photography{
+    color: rgb(9, 34, 111);
+    position: absolute;
+    margin-top: -250px;
+    margin-left: 1350px;
+    font-weight: 900;
+    font-size: 2em;
+}
+.text4{
+    position: absolute;
+    color:rgb(9, 34, 111) ;
+    margin-top: -150px;
+    margin-left: 1190px;
+    font-size: 32px;
+    font-weight: 600;
+    
+    
+}
+
+.Client{
+    display: flex;
+    justify-content: center;
+    letter-spacing: 8px;
+    margin-top: 150px;
+    color: gray;
+}
+.humans{
+    display: flex;
+    margin: 100px;
+    justify-content: center;
+    
+}
+.human1{
+    position: relative;
+    height: 400px;
+    width: 350px;
+    background: white;
+    margin: 20px;
+    font-weight: 500;
+
+}
+.human2{
+    position: relative;
+    height: 400px;
+    width: 350px;
+    background: white;
+    margin: 20px;
+    
+}
+.human3{
+    position: relative;
+    height: 400px;
+    width: 350px;
+    background: white;
+    margin: 20px;
+}
+.img1{
+position: relative;
+padding-left: 100px;
+box-sizing: border-box;
+border-radius: 50%;
+
+}
+.img2{
+    position: relative;
+    padding-left: 100px;
+    box-sizing: border-box;
+    border-radius: 50%; 
+}
+.img3{
+    position: relative;
+padding-left: 100px;
+box-sizing: border-box;
+border-radius: 50%;
+}
+.human1_text{
+    padding-top: 40px;
+}
+.bold1{
+    display: flex;
+    padding-top: 50px;
+    justify-content: center;
+}
+.gray{
+    color: gray;
+    display: flex;
+    justify-content: center;
+
+}
+.photos{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.footer{
+    position: relative;
+    width: 100%;
+    height: 300px;
+    background-color: rgb(119, 186, 145);
+}
+
+.about{
+    display: flex;
+    
+    justify-items: center;
+    list-style-type: none;
+    padding-top: 10px;
+    padding-left: 885px;
+    color: darkgreen;
+    font-weight: 700;
+}
+.about1{
+    padding: 10px;
+    cursor: pointer;
+    
+
+}
+.sunnyside{
+    margin-left: 70px;
+    color: darkgreen;
+    text-align: center;
+    font-weight: 900;
+    font-size: 2em;
+    padding-top: 50px;
+
+}
+.smm{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    margin-left: 85px;
+}
+.smm1{
+    padding: 20px;
+}
+
+
